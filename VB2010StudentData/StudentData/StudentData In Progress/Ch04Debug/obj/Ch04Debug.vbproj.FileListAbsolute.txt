@@ -1,0 +1,4 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Debug\Ch04Debug.exe.config
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.pdb

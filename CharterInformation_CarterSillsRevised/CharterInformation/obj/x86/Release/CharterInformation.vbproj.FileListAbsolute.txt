@@ -1,0 +1,29 @@
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Release\CharterInformation.exe
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Release\CharterInformation.pdb
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Release\CharterInformation.xml
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.AboutBox1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.Form1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.Resources.resources
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.SplashScreen1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.exe
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.xml
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Release\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Release\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Release\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Release\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\bin\Release\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\bin\Release\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\bin\Release\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.AboutBox1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.Form1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.Resources.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Release\GenerateResource.write.1.tlog

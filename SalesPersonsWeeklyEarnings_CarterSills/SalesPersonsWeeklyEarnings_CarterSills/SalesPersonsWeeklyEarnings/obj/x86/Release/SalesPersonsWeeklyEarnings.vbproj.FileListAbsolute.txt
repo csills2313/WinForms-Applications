@@ -1,0 +1,11 @@
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\bin\Release\SalesPersonsWeeklyEarnings.exe
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\bin\Release\SalesPersonsWeeklyEarnings.pdb
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\bin\Release\SalesPersonsWeeklyEarnings.xml
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\SalesPersonsWeeklyEarnings.Form1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\SalesPersonsWeeklyEarnings.Resources.resources
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\SalesPersonsWeeklyEarnings.exe
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\SalesPersonsWeeklyEarnings.xml
+C:\Users\csills\documents\visual studio 2010\Projects\SalesPersonsWeeklyEarnings\SalesPersonsWeeklyEarnings\obj\x86\Release\SalesPersonsWeeklyEarnings.pdb

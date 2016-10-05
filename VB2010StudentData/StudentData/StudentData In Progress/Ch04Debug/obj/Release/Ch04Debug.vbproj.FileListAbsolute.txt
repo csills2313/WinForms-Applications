@@ -1,0 +1,26 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Release\Ch04Debug.exe.config
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Release\Ch04Debug.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Release\Ch04Debug.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Release\Ch04Debug.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.DebugForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Release\Ch04Debug.pdb
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Release\Ch04Debug.exe.config
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.exe
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.xml
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.pdb
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Release\Ch04Debug.exe
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Release\Ch04Debug.pdb
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Release\Ch04Debug.xml
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.DebugForm.resources
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.Resources.resources
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Release\Ch04Debug.vbproj.GenerateResource.Cache
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\bin\Release\Ch04Debug.exe.config
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Release\Ch04Debug.exe
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Release\Ch04Debug.xml
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Release\Ch04Debug.pdb

@@ -1,0 +1,36 @@
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.xml
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Form1.resources
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Resources.resources
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.exe
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.xml
+c:\users\csills\documents\visual studio 2010\Projects\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.pdb
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.exe
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.xml
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.pdb
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.xml
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Form1.resources
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Resources.resources
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.exe
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.xml
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.pdb
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\bin\Debug\Checking Account Balance.xml
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Form1.resources
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking_Account_Balance.Resources.resources
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.exe
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.xml
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\Checking Account BalanceCarterSills\Checking Account BalanceCarterSills\Checking Account Balance\Checking Account Balance\obj\x86\Debug\Checking Account Balance.pdb

@@ -1,0 +1,33 @@
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Debug\Ch04Debug.exe.config
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Debug\Ch04Debug.exe
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Debug\Ch04Debug.pdb
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\bin\Debug\Ch04Debug.xml
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.DebugForm.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.Resources.resources
+C:\Documents and Settings\Judy\My Documents\VB2008\In Chapter Programs\Chap04\Ch04Debug\obj\Debug\Ch04Debug.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Debug\Ch04Debug.exe.config
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Debug\Ch04Debug.exe
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Debug\Ch04Debug.pdb
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\bin\Debug\Ch04Debug.xml
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.DebugForm.resources
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.Resources.resources
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.exe
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.xml
+C:\Users\Public\Documents\InChapterProgs\Ch04Debug\obj\Debug\Ch04Debug.pdb
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\bin\Debug\Ch04Debug.exe.config
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\bin\Debug\Ch04Debug.exe
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\bin\Debug\Ch04Debug.pdb
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\bin\Debug\Ch04Debug.xml
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.DebugForm.resources
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.Resources.resources
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.vbproj.GenerateResource.Cache
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.exe
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.xml
+C:\Users\Theresa\Documents\McGrawHill\VB2010\To TE\StudentData In Progress\Ch04Debug\obj\Debug\Ch04Debug.pdb

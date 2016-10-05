@@ -1,0 +1,28 @@
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.exe
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.pdb
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.xml
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.AboutBox1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.JobInformation.resources
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.Main.resources
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.Resources.resources
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.SplashScreen1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.exe
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.xml
+C:\Users\csills\documents\visual studio 2010\Projects\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.pdb
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.exe
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.xml
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.pdb
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.exe
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.pdb
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\bin\Release\PatsAutoRepair.xml
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.AboutBox1.resources
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.JobInformation.resources
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.Main.resources
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.Resources.resources
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\PatsAutoRepair.SplashScreen1.resources
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\PatsAutoRepair\PatsAutoRepair\obj\x86\Release\GenerateResource.write.1.tlog

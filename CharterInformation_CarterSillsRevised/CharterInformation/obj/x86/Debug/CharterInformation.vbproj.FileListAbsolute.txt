@@ -1,0 +1,64 @@
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Debug\CharterInformation.exe
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Debug\CharterInformation.pdb
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\bin\Debug\CharterInformation.xml
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.Form1.resources
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.Resources.resources
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.exe
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.xml
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+c:\users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.AboutBox1.resources
+C:\Users\csills\documents\visual studio 2010\Projects\CharterInformation\CharterInformation\obj\x86\Debug\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.AboutBox1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.Form1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.Resources.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\bin\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\bin\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\CharterInformation_CarterSills\CharterInformation\bin\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.AboutBox1.resources
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Form1.resources
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Resources.resources
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\csills\Desktop\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.AboutBox1.resources
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Form1.resources
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Resources.resources
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.vbproj.GenerateResource.Cache
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.exe
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.pdb
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\bin\Debug\CharterInformation.xml
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.AboutBox1.resources
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Form1.resources
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.Resources.resources
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.SplashScreen1.resources
+C:\Users\csills\Desktop\Desktop\coursedocs\Semnar 1\Visual Basic Files\CharterInformation_CarterSillsRevised\CharterInformation\obj\x86\Debug\CharterInformation.vbproj.GenerateResource.Cache
